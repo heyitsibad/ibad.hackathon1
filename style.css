@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.hero-section{
+    height: 427px;
+}
+
+.h2{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
